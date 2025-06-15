@@ -1,0 +1,2 @@
+name: "Vprofile IAC"
+on: [push, pull_request]
